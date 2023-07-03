@@ -101,7 +101,7 @@ class DashboardController extends AdminController
                     'label'           => __("Total Earning"),
                     'data'            => [],
                     'backgroundColor' => 'transparent',
-                    'borderColor'     => '#ff5a5f',
+                    'borderColor'     => '#3590fc',
                     'stack'           => 'group-total',
                     'type'            => 'line'
                 ]

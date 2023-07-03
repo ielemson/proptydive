@@ -70,7 +70,7 @@ class UserController extends FrontendController
                     'label'           => __("Total Views"),
                     'data'            => [],
                     'backgroundColor' => 'transparent',
-                    'borderColor'     => '#ff5a5f',
+                    'borderColor'     => '#3590fc',
                     'stack'           => 'group-total',
                     'type'            => 'line'
                 ]

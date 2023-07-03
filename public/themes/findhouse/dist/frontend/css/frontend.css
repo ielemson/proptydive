@@ -248,10 +248,10 @@ Pricing Section
 }
 
 .listing_list_style .list-inline-item.active {
-  background-color: #ff5a5f;
+  background-color: #3590fc;
   box-shadow: 0px 1px 4px 0px rgba(255, 90, 95, 0.3);
   color: #fff;
-  border: 1px solid #ff5a5f;
+  border: 1px solid #3590fc;
 }
 .listing_list_style .list-inline-item.active a {
   color: #fff;
@@ -520,7 +520,7 @@ Pricing Section
   width: 90px;
 }
 .home8-slider .bs_carousel .property-carousel-controls a:hover {
-  color: #ff5a5f;
+  color: #3590fc;
 }
 .home8-slider .bs_carousel .property-carousel-controls a span {
   font-size: 23px;
@@ -829,7 +829,7 @@ Pricing Section
 }
 
 ul.total_reivew_view li.write_review a {
-  color: #ff5a5f;
+  color: #3590fc;
 }
 
 .ace-responsive-menu a[data-toggle=dropdown] > .arrow {
@@ -893,12 +893,12 @@ ul.total_reivew_view li.write_review a {
 
 .pricing-table .inner-box:hover, .pricing-table.tagged .inner-box {
   box-shadow: 0px 0px 50px 0px rgba(19, 19, 28, 0.12);
-  border: 1px solid #ff5a5f;
+  border: 1px solid #3590fc;
 }
 
 .pricing-table .price {
   justify-content: center;
-  color: #ff5a5f;
+  color: #3590fc;
   font-weight: bold;
 }
 .pricing-table .price .duration {
@@ -907,5 +907,5 @@ ul.total_reivew_view li.write_review a {
 }
 
 .pricing-tabs .tab-btns:before {
-  background-color: #ff5a5f;
+  background-color: #3590fc;
 }
